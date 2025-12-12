@@ -1,0 +1,9 @@
+{
+  "name": "NYC Scout",
+  "description": "Your AI-powered NYC food and vibe concierge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
